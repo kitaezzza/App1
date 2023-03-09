@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="text1">Свет включен</string>
+    <string name="text2">Свет выключен</string>
+    <string name="btn1">Выключить</string>
+    <string name="btn2">Включить</string>
+</resources>
